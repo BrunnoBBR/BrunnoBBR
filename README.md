@@ -10,7 +10,7 @@
   
 <div align="left">
   <a href="https://github.com/BrunnoBBR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunnoBBR&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunnoBBR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
   
   <img align="center" alt="Bruno-Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
