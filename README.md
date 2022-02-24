@@ -17,3 +17,6 @@
   <img align="center" alt="Bruno-HTML" height="30" width="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Bruno-CSS" height="30" width="50" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  
+<div align="left">
+  <img align="center" height="180" width="460" src="https://cdn.discordapp.com/attachments/723246822008553475/946468053527437312/giphy.gif">
+  </div> 
